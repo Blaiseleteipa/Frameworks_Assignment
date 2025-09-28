@@ -14,6 +14,11 @@ After downloading, extract the `metadata.csv` in the **project root folder**.
    ```bash
    git clone https://github.com/Blaiseleteipa>/frameworks-assignment.git
    cd frameworks-assignment
+2.Create and activate a virtual environment:
+
+python -m venv venv
+source venv/bin/activate      # macOS/Linux
+venv\Scripts\activate         # Windows
 
 
 # 📊 CORD-19 Frameworks Assignment
@@ -97,4 +102,5 @@ Author
 Blaise Leteipa Partoip
 
 Frameworks Assignment – PLP Academy
+
 

@@ -3,9 +3,7 @@
 The dataset file `metadata.csv` (~1.2 GB) is **too large to be uploaded to GitHub**.  
 
 ➡️ You can download it from the official sources:  
-- [CORD-19 on Kaggle](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge)  
-- [Allen Institute for AI CORD-19 release](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/cord_19_embeddings.tar.gz)  
-
+- [CORD-19 on Kaggle](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge?select=metadata.csv)
 After downloading, extract the `metadata.csv` in the **project root folder**.
 
 ---
@@ -99,3 +97,4 @@ Author
 Blaise Leteipa Partoip
 
 Frameworks Assignment – PLP Academy
+

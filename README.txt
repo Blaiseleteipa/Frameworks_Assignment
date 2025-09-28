@@ -1,4 +1,25 @@
+
+## 🗂️ Dataset
+The dataset file `metadata.csv` (~1.2 GB) is **too large to be uploaded to GitHub**.  
+
+➡️ You can download it from the official sources:  
+- [CORD-19 on Kaggle](https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge)  
+- [Allen Institute for AI CORD-19 release](https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/cord_19_embeddings.tar.gz)  
+
+After downloading, extract the `metadata.csv` in the **project root folder**.
+
+---
+
+## 🚀 Setup Instructions
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Blaiseleteipa>/frameworks-assignment.git
+   cd frameworks-assignment
+
+
 # 📊 CORD-19 Frameworks Assignment
+
 
 ## 📌 Overview
 This project explores the **CORD-19 Metadata dataset** using Python, pandas, and visualization libraries.  
@@ -76,4 +97,5 @@ Next steps: Could expand analysis with NLP on abstracts or trend analysis across
 Author
 
 Blaise Leteipa Partoip
+
 Frameworks Assignment – PLP Academy
